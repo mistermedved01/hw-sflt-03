@@ -23,13 +23,17 @@
 ## Ответ 2
 
 Первый сервер
+
 ![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/keepalived_conf01.jpg)
 
 Второй сервер
+
 ![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/keepalived_conf02.jpg)
 
 Скрипт переключения
+
 ![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/notify-web.jpg)
 
 Логи
+
 ![Название скриншота 1](https://github.com/mistermedved01/hw-sflt-01/blob/master/keepalived_log.jpg)
